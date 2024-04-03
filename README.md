@@ -4,3 +4,6 @@ React is a free and open-source front-end JavaScript library for building user i
 
 
 ## CONTENT
+
+[Creating Component](https://github.com/KrYP70N/REAT_NOTE/tree/feature/create-component)
+
